@@ -1,0 +1,6 @@
+com\example\easynotes\controller\PersonaController.class
+com\example\easynotes\exception\ResourceNotFoundException.class
+com\example\easynotes\model\Note.class
+com\example\easynotes\EasyNotesApplication.class
+com\example\easynotes\model\Persona.class
+com\example\easynotes\repository\PersonaRepository.class

@@ -1,0 +1,5 @@
+CREATE TABLE `springesasyschema`.`personas` (
+  `idPersonas` INT NOT NULL AUTO_INCREMENT,
+  `nombre` VARCHAR(45) NULL,
+  `apellido` VARCHAR(45) NULL,
+  PRIMARY KEY (`idPersonas`));
